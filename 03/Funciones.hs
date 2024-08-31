@@ -1,6 +1,6 @@
 module Funciones where
 
--- a) Implementar la función parcialF
+-- 1.a) Implementar la función parcialF
 parcialF _ = ()
 
 -- b) Implementar la función parcialG
@@ -9,7 +9,6 @@ parcialG _ = ()
 -- c) Implementar la función parcialH usando parcialF y parcialG
 parcialH _ = ()
 
--- d) Implementar la función parcialK usando parcialF y parcialG
 parcialK _ = ()
 
 -- 2.a) Implementar la función absoluto
